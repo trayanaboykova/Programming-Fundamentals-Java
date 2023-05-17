@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course01_BasicSyntax.Lab;
+package Course01_BasicSyntax.Lab;
 
 public class P08_DivisibleBy3 {
     public static void main(String[] args) {

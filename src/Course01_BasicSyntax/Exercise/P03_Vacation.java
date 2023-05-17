@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course01_BasicSyntax.Exercise;
+package Course01_BasicSyntax.Exercise;
 
 import java.util.Scanner;
 

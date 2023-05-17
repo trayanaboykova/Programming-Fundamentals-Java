@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="" />
+    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P01_Ages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P01_Ages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P02_Division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P02_Division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P03_Vacation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P03_Vacation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P04_PrintAndSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P04_PrintAndSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P05_Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P05_Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P06_StrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P06_StrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P07_VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P07_VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P08_TriangleOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P08_TriangleOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P09_Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P09_Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P10_PadawanEquipment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P10_PadawanEquipment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P11_RageExpenses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Exercise/P11_RageExpenses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P01_StudentInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P01_StudentInformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P02_Passed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P02_Passed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P03_PassedOrFailed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P03_PassedOrFailed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P04_BackIn30Minutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P04_BackIn30Minutes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P05_MonthPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P05_MonthPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P06_ForeignLanguages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P06_ForeignLanguages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P07_TheatrePromotions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P07_TheatrePromotions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P08_DivisibleBy3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P08_DivisibleBy3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P09_SumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P09_SumOfOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P10_MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P10_MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P11_MultiplicationTable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P11_MultiplicationTable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P12_EvenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P12_EvenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P13_RefactorSumOfOddNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/Lab/P13_RefactorSumOfOddNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P01_SortNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P01_SortNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P02_EnglishNameOfTheLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P02_EnglishNameOfTheLastDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P03_GamingStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P03_GamingStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P04_ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P04_ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P05_Messages1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P05_Messages1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P05_Messages2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course01_BasicSyntax/MoreExercises/P05_Messages2.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684315190164</updated>
-      <workItem from="1684315191275" duration="1697000" />
+      <workItem from="1684315191275" duration="2050000" />
     </task>
     <servers />
   </component>

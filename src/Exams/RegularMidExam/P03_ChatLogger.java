@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Exams.RegularMidExam;
+package Exams.RegularMidExam;
 
 import java.util.ArrayList;
 import java.util.Arrays;

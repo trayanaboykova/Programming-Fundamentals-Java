@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Exams.RegularFinalExam;
+package Exams.RegularFinalExam;
 import java.util.*;
 
 public class P03_MessagesManager {

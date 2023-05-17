@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course09_RegularExpressions.Exercise;
+package Course09_RegularExpressions.Exercise;
 
 import java.util.ArrayList;
 import java.util.Collections;

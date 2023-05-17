@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course04_Methods.MoreExercises;
+package Course04_Methods.MoreExercises;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course05_Lists.Lab;
+package Course05_Lists.Lab;
 
 import java.util.ArrayList;
 import java.util.Collections;

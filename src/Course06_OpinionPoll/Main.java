@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course06_OpinionPoll;
+package Course06_OpinionPoll;
 
 import java.util.ArrayList;
 import java.util.List;

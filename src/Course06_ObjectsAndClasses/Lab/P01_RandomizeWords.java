@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course06_ObjectsAndClasses.Lab;
+package Course06_ObjectsAndClasses.Lab;
 
 import java.util.Random;
 import java.util.Scanner;

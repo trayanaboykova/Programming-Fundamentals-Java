@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course05_Lists.MoreExercises;
+package Course05_Lists.MoreExercises;
 
 import java.util.ArrayList;
 import java.util.Arrays;

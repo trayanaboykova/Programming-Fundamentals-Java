@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course05_Lists.Lab;
+package Course05_Lists.Lab;
 
 import java.text.DecimalFormat;
 import java.util.Arrays;

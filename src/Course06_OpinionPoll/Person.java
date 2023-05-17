@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course06_OpinionPoll;
+package Course06_OpinionPoll;
 
 public class Person {
     //полета -> характеристики -> име, възраст

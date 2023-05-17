@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course06_ObjectsAndClasses.Exercise;
+package Course06_ObjectsAndClasses.Exercise;
 
 import java.util.Scanner;
 

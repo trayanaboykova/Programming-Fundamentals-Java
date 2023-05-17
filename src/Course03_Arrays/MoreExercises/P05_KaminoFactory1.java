@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course03_Arrays.MoreExercises;
+package Course03_Arrays.MoreExercises;
 
 import java.util.Scanner;
 

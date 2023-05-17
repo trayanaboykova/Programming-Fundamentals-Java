@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course03_Arrays;
+package Course03_Arrays;
 
 import java.util.Scanner;
 
@@ -9,8 +9,8 @@ public class Demo {
 
        int[] targets = nextIntArray(scanner);
 
-        System.out.printf("Something");
-        printArray(targets," ");
+        System.out.println("Something");
+        printArray(targets);
     }
 
     //извикване на масив
@@ -26,11 +26,11 @@ public class Demo {
 
     //принтиране на масив, когато примерно накрая
     //може да има запетая или нещо друго
-    private static void printArray (int[] array, String separator){
+    private static void printArray (int[] array){
         for (int i = 0; i < array.length; i++) {
             System.out.print(array[i]);
             if (i < array.length - 1){
-                System.out.print(separator);
+                System.out.print(" ");
             }
         }
     }

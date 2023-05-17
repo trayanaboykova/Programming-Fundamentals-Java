@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course03_Arrays.Lab;
+package Course03_Arrays.Lab;
 
 import java.util.Arrays;
 import java.util.Scanner;

@@ -5,33 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P01_Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P01_Train.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P02_CommonElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P02_CommonElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P03_ZigZagArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P03_ZigZagArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P04_ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P04_ArrayRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P05_TopIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P05_TopIntegers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P06_EqualSums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P06_EqualSums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P07_MaxSequenceOfEqualElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P07_MaxSequenceOfEqualElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P08_MagicSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P08_MagicSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P09_ArrayModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P09_ArrayModifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P10_TreasureHunt1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P10_TreasureHunt1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P10_TreasureHunt2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P01_DaysOfWeek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P01_DaysOfWeek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P02_PrintNumbersInReverseOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P02_PrintNumbersInReverseOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P03_SumEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P03_SumEvenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P04_ReverseArrayOfStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P04_ReverseArrayOfStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P05_EvenAndOddSubtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P05_EvenAndOddSubtraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P06_EqualArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P06_EqualArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P07_CondenseArrayToNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Lab/P07_CondenseArrayToNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P01_EncryptSortAndPrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P01_EncryptSortAndPrintArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P02_PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P02_PascalTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P03_RecursiveFibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P03_RecursiveFibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P05_KaminoFactory1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P05_KaminoFactory1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P05_KaminoFactory2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P05_KaminoFactory2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P06_LadyBugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P06_LadyBugs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P4_LongestIncreasingSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/MoreExercises/P4_LongestIncreasingSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P01_Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P01_Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P02_ChangeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P02_ChangeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P03_HouseParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P03_HouseParty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P04_ListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P04_ListOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P05_BombNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P05_BombNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P06_CardsGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P06_CardsGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P07_AppendArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P07_AppendArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P08_AnonymousThreat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P08_AnonymousThreat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P09_PokemonDontGo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P09_PokemonDontGo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P10_SoftUniCoursePlanning.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P10_SoftUniCoursePlanning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Lab/P01_SumAdjacentEqualNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Lab/P01_SumAdjacentEqualNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Lab/P02_GaussTrick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Lab/P02_GaussTrick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Lab/P03_MergingLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Lab/P03_MergingLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Lab/P04_ListManipulationBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Lab/P04_ListManipulationBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Lab/P06_ListOfProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Lab/P06_ListOfProducts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Lab/P07_RemoveNegativesAndReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Lab/P07_RemoveNegativesAndReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/MoreExercises/P01_Messaging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/MoreExercises/P01_Messaging.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/MoreExercises/P02_CarRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/MoreExercises/P02_CarRace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/MoreExercises/P03_TakeSkipRope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/MoreExercises/P03_TakeSkipRope.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/MoreExercises/P04_MixedUpLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/MoreExercises/P04_MixedUpLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/MoreExercises/P05_DrumSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/MoreExercises/P05_DrumSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Exercise/P01_AdvertisementMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Exercise/P01_AdvertisementMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Exercise/P02_Articles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Exercise/P02_Articles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Exercise/P04_Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Exercise/P04_Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Exercise/P05_VehicleCatalogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Exercise/P05_VehicleCatalogue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Exercise/P06_OrderByAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Exercise/P06_OrderByAge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P01_RandomizeWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P01_RandomizeWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P02_SumBigNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P02_SumBigNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P03_BigFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P03_BigFactorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P04_Songs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P04_Songs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P05_Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P05_Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P06_Students2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_ObjectsAndClasses/Lab/P06_Students2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_OpinionPoll/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_OpinionPoll/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course06_OpinionPoll/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course06_OpinionPoll/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684315190164</updated>
-      <workItem from="1684315191275" duration="3844000" />
+      <workItem from="1684315191275" duration="4250000" />
     </task>
     <servers />
   </component>

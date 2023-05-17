@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course00_Common.BitwiseOperations;
+package Course00_Common.BitwiseOperations;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course07_AssociativeArrays.MoreExercises;
+package Course07_AssociativeArrays.MoreExercises;
 
 import java.util.LinkedHashMap;
 import java.util.Map;

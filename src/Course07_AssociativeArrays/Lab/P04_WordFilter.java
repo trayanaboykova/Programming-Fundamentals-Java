@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course07_AssociativeArrays.Lab;
+package Course07_AssociativeArrays.Lab;
 
 import java.util.Arrays;
 import java.util.Scanner;

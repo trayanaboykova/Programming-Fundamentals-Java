@@ -1,11 +1,11 @@
-package Module02_Fundamentals.ExamsExercises.MidExams_05;
+package ExamsExercises.MidExams_05;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class MuOnline {
+public class P02_MuOnline2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<String> rooms = Arrays.stream(scanner.nextLine().split("\\|"))

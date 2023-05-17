@@ -1,8 +1,8 @@
-package Module02_Fundamentals.ExamsExercises.MidExams_04;
+package ExamsExercises.MidExams_04;
 
 import java.util.Scanner;
 
-public class GuineaPig {
+public class P01_GuineaPig2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double quantityFood = Double.parseDouble(scanner.nextLine()) * 1000;

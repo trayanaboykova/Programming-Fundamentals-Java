@@ -1,4 +1,4 @@
-package Module02_Fundamentals.ExamsExercises.MidExam_02;
+package ExamsExercises.MidExam_02;
 
 import java.util.Scanner;
 

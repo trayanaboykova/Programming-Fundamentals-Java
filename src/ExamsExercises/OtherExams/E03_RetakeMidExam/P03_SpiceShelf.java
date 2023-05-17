@@ -1,4 +1,4 @@
-package Module02_Fundamentals.ExamsExercises.OtherExams.E03_RetakeMidExam;
+package ExamsExercises.OtherExams.E03_RetakeMidExam;
 
 import java.util.Arrays;
 import java.util.Collections;

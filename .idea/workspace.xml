@@ -5,32 +5,77 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P01_ValidUsernames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P01_ValidUsernames.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P02_CharacterMultiplier1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P02_CharacterMultiplier1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P02_CharacterMultiplier2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P02_CharacterMultiplier2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P03_ExtractFile1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P03_ExtractFile1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P03_ExtractFile2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P03_ExtractFile2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P05_CaesarCipher1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P05_CaesarCipher1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P05_CaesarCipher2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P05_CaesarCipher2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P05_MultiplyBigNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P05_MultiplyBigNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P06_ReplaceRepeatingChars1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P06_ReplaceRepeatingChars1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P06_ReplaceRepeatingChars2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P06_ReplaceRepeatingChars2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P07_StringExplosion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P07_StringExplosion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P08_LettersChangeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P08_LettersChangeNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/P01_ReverseStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/P01_ReverseStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/P02_RepeatStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/P02_RepeatStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/P03_Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/P03_Substring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/P04_TextFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/P04_TextFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/P05_DigitsLettersAndOther.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Lab/P05_DigitsLettersAndOther.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P01_ExtractPersonInformation1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P01_ExtractPersonInformation1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P01_ExtractPersonInformation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P01_ExtractPersonInformation2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P02_AsciiSumator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P02_AsciiSumator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P03_TreasureFinder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P03_TreasureFinder1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P03_TreasureFinder2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P03_TreasureFinder2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P04_MorseCodeTranslator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P04_MorseCodeTranslator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P04_MorseCodeTranslator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P04_MorseCodeTranslator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P05_HTML.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/MoreExercises/P05_HTML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P01_ComputerStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P01_ComputerStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift_List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift_List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P03_MemoryGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P03_MemoryGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P03_MemoryGame2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P03_MemoryGame2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P01_SoftUniReception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P01_SoftUniReception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P02_ArrayModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P02_ArrayModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P02_ArrayModifier2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P02_ArrayModifier2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P03_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P03_Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/MovingTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P01_CounterStrike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P01_CounterStrike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P01_CounterStrike2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P01_CounterStrike2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P02_ShootForTheWin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P02_ShootForTheWin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P02_ShootForTheWin2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P02_ShootForTheWin2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P03_MovingTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P03_MovingTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/GuineaPig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/P01_GuineaPig2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/P01_GuineaPig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/P01_GuineaPig1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/P02_ShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/P02_ShoppingList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/P03_HeartDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/P03_HeartDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/ShoppingList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/MuOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P02_MuOnline2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P01_BonusScoringSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P01_BonusScoringSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P02_MuOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P02_MuOnline1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P03_Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P03_Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/ManOWar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P01_BlackFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P01_BlackFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P01_BlackFlag2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P01_BlackFlag2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P03_ManOWar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P03_ManOWar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E01_RegularMidExam/P01_ExperienceGaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E01_RegularMidExam/P01_ExperienceGaining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E01_RegularMidExam/P02_CoffeeLover.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E01_RegularMidExam/P02_CoffeeLover.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E01_RegularMidExam/P03_TheAngryCat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E01_RegularMidExam/P03_TheAngryCat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E02_RegularExam/P01_PasswordValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E02_RegularExam/P01_PasswordValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E02_RegularExam/P02_EncryptingPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E02_RegularExam/P02_EncryptingPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E02_RegularExam/P03_DegustationParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E02_RegularExam/P03_DegustationParty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P01_GiftBoxCoverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P01_GiftBoxCoverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P01_GiftBoxCoverage2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P01_GiftBoxCoverage2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P02_GeneratingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P02_GeneratingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P03_SpiceShelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P03_SpiceShelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E04_RetakeRegularExam/P01_WordDeveloping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E04_RetakeRegularExam/P01_WordDeveloping.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E04_RetakeRegularExam/P02_Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E04_RetakeRegularExam/P02_Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E04_RetakeRegularExam/P03_MonthlyReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E04_RetakeRegularExam/P03_MonthlyReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P01_TheImitationGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P01_TheImitationGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P02_AdAstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P02_AdAstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P03_ThePianist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P03_ThePianist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_02/P01_WorldTour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_02/P01_WorldTour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_02/P02_DestinationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_02/P02_DestinationMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_02/P03_PlantDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_02/P03_PlantDiscovery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_03/P01_SecretChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_03/P01_SecretChat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_03/P02_MirrorWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_03/P02_MirrorWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_03/P03_NeedForSpeedIII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_03/P03_NeedForSpeedIII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_03/SecretChat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_04/P01_PasswordReset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_04/P01_PasswordReset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_04/P02_FancyBarcodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_04/P02_FancyBarcodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_04/P03_HeroesOfCodeAndLogicVII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_04/P03_HeroesOfCodeAndLogicVII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_05/P01_ActivationKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_05/P01_ActivationKeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_05/P02_EmojiDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_05/P02_EmojiDetector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_05/P03_Pirates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_05/P03_Pirates.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1684315190164</updated>
-      <workItem from="1684315191275" duration="4580000" />
+      <workItem from="1684315191275" duration="5609000" />
     </task>
     <servers />
   </component>

@@ -1,4 +1,4 @@
-package Module02_Fundamentals.ExamsExercises.RegularExams_03;
+package ExamsExercises.RegularExams_03;
 
 
 import java.util.*;

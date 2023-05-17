@@ -1,8 +1,8 @@
-package Module02_Fundamentals.ExamsExercises.MidExams_05;
+package ExamsExercises.MidExams_05;
 
 import java.util.Scanner;
 
-public class P02_MuOnline {
+public class P02_MuOnline1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

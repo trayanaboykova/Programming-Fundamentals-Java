@@ -1,4 +1,4 @@
-package Module02_Fundamentals.ExamsExercises.RegularExams_01;
+package ExamsExercises.RegularExams_01;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;

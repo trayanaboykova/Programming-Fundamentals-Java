@@ -1,4 +1,4 @@
-package Module02_Fundamentals.ExamsExercises.OtherExams.E04_RetakeRegularExam;
+package ExamsExercises.OtherExams.E04_RetakeRegularExam;
 
 import java.util.Scanner;
 

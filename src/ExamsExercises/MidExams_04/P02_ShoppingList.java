@@ -1,4 +1,4 @@
-package Module02_Fundamentals.ExamsExercises.MidExams_04;
+package ExamsExercises.MidExams_04;
 
 import java.util.Arrays;
 import java.util.List;

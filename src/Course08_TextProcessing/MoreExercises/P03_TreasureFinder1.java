@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course08_TextProcessing.MoreExercises;
+package Course08_TextProcessing.MoreExercises;
 
 import java.util.Arrays;
 import java.util.List;

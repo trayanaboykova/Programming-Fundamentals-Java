@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course08_TextProcessing.Lab;
+package Course08_TextProcessing.Lab;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course08_TextProcessing.Exercise;
+package Course08_TextProcessing.Exercise;
 
 import java.math.BigInteger;
 import java.util.Scanner;

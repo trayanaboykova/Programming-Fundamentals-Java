@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course02_DataTypesAndVariables.Lab;
+package Course02_DataTypesAndVariables.Lab;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

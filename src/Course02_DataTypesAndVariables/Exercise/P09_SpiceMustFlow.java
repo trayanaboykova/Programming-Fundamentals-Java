@@ -1,4 +1,4 @@
-package Module02_Fundamentals.Course02_DataTypesAndVariables.Exercise;
+package Course02_DataTypesAndVariables.Exercise;
 
 import java.util.Scanner;
 

@@ -31,7 +31,7 @@ public class P10_TreasureHunt {
                 case "Drop":
                     int position = Integer.parseInt(commandParts[1]);
 
-                    if (position <= treasureChest.length - 1 && position >= 0) {
+                    if (position >= 0 && position <= treasureChest.length - 1  ) {
                         String dropItem = treasureChest[position];
                         for (int i = position; i < treasureChest.length - 1; i++) {
                             treasureChest[i] = treasureChest[i + 1];

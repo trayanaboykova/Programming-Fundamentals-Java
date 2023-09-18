@@ -2,7 +2,7 @@ package Course03_Arrays.Exercise;
 
 import java.util.Scanner;
 
-public class P10_TreasureHunt1 {
+public class P10_TreasureHunt {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String[] treasureChest = scanner.nextLine().split("\\|");

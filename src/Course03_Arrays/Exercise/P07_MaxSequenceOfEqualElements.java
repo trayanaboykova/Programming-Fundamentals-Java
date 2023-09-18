@@ -7,8 +7,8 @@ public class P07_MaxSequenceOfEqualElements {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] array = Arrays.stream(scanner.nextLine().split(" "))
-                .mapToInt(e -> Integer.parseInt(e))
-                .toArray();
+                        .mapToInt(Integer::parseInt)
+                        .toArray();
         int maxLength = 0;
         int length = 1;
 

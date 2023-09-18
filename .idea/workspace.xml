@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="" />
+    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P06_EqualSums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course03_Arrays/Exercise/P06_EqualSums.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,82 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.P06_EqualSums">
+    <configuration name="P01_Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_Arrays.Exercise.P01_Train" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course03_Arrays.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P03_ZigZagArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_Arrays.Exercise.P03_ZigZagArrays" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course03_Arrays.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P04_ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_Arrays.Exercise.P04_ArrayRotation" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course03_Arrays.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P05_TopIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_Arrays.Exercise.P05_TopIntegers" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course03_Arrays.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P06_EqualSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course03_Arrays.Exercise.P06_EqualSums" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course03_Arrays.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P06_EqualSums" />
+        <item itemvalue="Application.P05_TopIntegers" />
+        <item itemvalue="Application.P04_ArrayRotation" />
+        <item itemvalue="Application.P03_ZigZagArrays" />
+        <item itemvalue="Application.P01_Train" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,10 +124,23 @@
       <workItem from="1684315191275" duration="5633000" />
       <workItem from="1684326409005" duration="71000" />
       <workItem from="1684764010344" duration="144000" />
+      <workItem from="1684827021244" duration="673000" />
+      <workItem from="1695036670134" duration="8762000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course03_Arrays/Exercise/P05_TopIntegers.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

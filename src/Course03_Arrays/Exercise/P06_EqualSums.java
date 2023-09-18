@@ -8,8 +8,8 @@ public class P06_EqualSums {
         Scanner scanner = new Scanner(System.in);
         int[] numbers = Arrays.stream(scanner.nextLine() //"1 2 3 3"
                         .split(" "))  //["1", "2", "3", "3"]
-                .mapToInt(el -> Integer.parseInt(el))  //[1, 2, 3, 3]
-                .toArray();
+                        .mapToInt(Integer::parseInt)  //[1, 2, 3, 3]
+                        .toArray();
 
         boolean isFound = false;
         for (int index = 0; index <= numbers.length - 1; index++) {

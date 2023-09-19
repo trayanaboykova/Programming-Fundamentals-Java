@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="" />
+    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +36,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P10_TopInteger">
-    <configuration name="P05_AddAndSubtract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_Methods.Exercise.P05_AddAndSubtract" />
+  <component name="RunManager" selected="Application.P07_RemoveNegativesAndReverse">
+    <configuration name="P03_MergingLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Lab.P03_MergingLists" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course04_Methods.Exercise.*" />
+          <option name="PATTERN" value="Course05_Lists.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06_MiddleCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_Methods.Exercise.P06_MiddleCharacters" />
+    <configuration name="P04_ListManipulationBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Lab.P04_ListManipulationBasics" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course04_Methods.Exercise.*" />
+          <option name="PATTERN" value="Course05_Lists.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_NxMMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_Methods.Exercise.P07_NxMMatrix" />
+    <configuration name="P05_ListManipulationAdvanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Lab.P05_ListManipulationAdvanced" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course04_Methods.Exercise.*" />
+          <option name="PATTERN" value="Course05_Lists.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P09_PalindromeIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_Methods.Exercise.P09_PalindromeIntegers" />
+    <configuration name="P06_ListOfProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Lab.P06_ListOfProducts" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course04_Methods.Exercise.*" />
+          <option name="PATTERN" value="Course05_Lists.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P10_TopInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_Methods.Exercise.P10_TopInteger" />
+    <configuration name="P07_RemoveNegativesAndReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Lab.P07_RemoveNegativesAndReverse" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course04_Methods.Exercise.*" />
+          <option name="PATTERN" value="Course05_Lists.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.P10_TopInteger" />
-        <item itemvalue="Application.P09_PalindromeIntegers" />
-        <item itemvalue="Application.P07_NxMMatrix" />
-        <item itemvalue="Application.P06_MiddleCharacters" />
-        <item itemvalue="Application.P05_AddAndSubtract" />
+        <item itemvalue="Application.P07_RemoveNegativesAndReverse" />
+        <item itemvalue="Application.P06_ListOfProducts" />
+        <item itemvalue="Application.P05_ListManipulationAdvanced" />
+        <item itemvalue="Application.P04_ListManipulationBasics" />
+        <item itemvalue="Application.P03_MergingLists" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +125,7 @@
       <workItem from="1684764010344" duration="144000" />
       <workItem from="1684827021244" duration="673000" />
       <workItem from="1695036670134" duration="14174000" />
-      <workItem from="1695105923864" duration="6904000" />
+      <workItem from="1695105923864" duration="12003000" />
     </task>
     <servers />
   </component>
@@ -147,6 +149,33 @@
           <url>file://$PROJECT_DIR$/src/Course03_Arrays/Exercise/P10_TreasureHunt.java</url>
           <line>6</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>
+          <line>73</line>
+          <properties class="Course05_Lists.Lab.P05_ListManipulationAdvanced" method="getSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>
+          <line>81</line>
+          <properties class="Course05_Lists.Lab.P05_ListManipulationAdvanced" method="printEvenElement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>
+          <line>90</line>
+          <properties class="Course05_Lists.Lab.P05_ListManipulationAdvanced" method="printOddElement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

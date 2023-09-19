@@ -11,19 +11,16 @@ public class P09_GreaterOfTwoValues {
             case "int":
                 int firstNum = Integer.parseInt(scanner.nextLine());
                 int secondNum = Integer.parseInt(scanner.nextLine());
-
                 System.out.println(getMax(firstNum, secondNum));
                 break;
             case "char":
                 char firstSymbol = scanner.nextLine().charAt(0);
                 char secondSymbol = scanner.nextLine().charAt(0);
-
                 System.out.println(getMax(firstSymbol, secondSymbol));
                 break;
             case "string":
                 String firstText = scanner.nextLine();
                 String secondText = scanner.nextLine();
-
                 System.out.println(getMax(firstText, secondText));
                 break;
         }

@@ -36,13 +36,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P07_RemoveNegativesAndReverse">
-    <configuration name="P03_MergingLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Lab.P03_MergingLists" />
+  <component name="RunManager" selected="Application.P03_HouseParty">
+    <configuration name="P01_Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P01_Train" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course05_Lists.Lab.*" />
+          <option name="PATTERN" value="Course05_Lists.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04_ListManipulationBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Lab.P04_ListManipulationBasics" />
+    <configuration name="P02_ChangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P02_ChangeList" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course05_Lists.Lab.*" />
+          <option name="PATTERN" value="Course05_Lists.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P05_ListManipulationAdvanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Lab.P05_ListManipulationAdvanced" />
+    <configuration name="P03_HouseParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P03_HouseParty" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course05_Lists.Lab.*" />
+          <option name="PATTERN" value="Course05_Lists.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P03_HouseParty" />
+        <item itemvalue="Application.P02_ChangeList" />
+        <item itemvalue="Application.P01_Train" />
         <item itemvalue="Application.P07_RemoveNegativesAndReverse" />
         <item itemvalue="Application.P06_ListOfProducts" />
-        <item itemvalue="Application.P05_ListManipulationAdvanced" />
-        <item itemvalue="Application.P04_ListManipulationBasics" />
-        <item itemvalue="Application.P03_MergingLists" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +125,7 @@
       <workItem from="1684764010344" duration="144000" />
       <workItem from="1684827021244" duration="673000" />
       <workItem from="1695036670134" duration="14174000" />
-      <workItem from="1695105923864" duration="12003000" />
+      <workItem from="1695105923864" duration="13482000" />
     </task>
     <servers />
   </component>
@@ -149,6 +149,11 @@
           <url>file://$PROJECT_DIR$/src/Course03_Arrays/Exercise/P10_TreasureHunt.java</url>
           <line>6</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course05_Lists/Exercise/P03_HouseParty.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>

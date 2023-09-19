@@ -36,33 +36,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P07_NxMMatrix">
-    <configuration name="P03_CharactersInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_Methods.Exercise.P03_CharactersInRange" />
-      <module name="ProgrammingFundamentalsJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course04_Methods.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P04_PasswordValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course04_Methods.Exercise.P04_PasswordValidator" />
-      <module name="ProgrammingFundamentalsJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course04_Methods.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P10_TopInteger">
     <configuration name="P05_AddAndSubtract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course04_Methods.Exercise.P05_AddAndSubtract" />
       <module name="ProgrammingFundamentalsJava" />
@@ -102,13 +76,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P09_PalindromeIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course04_Methods.Exercise.P09_PalindromeIntegers" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course04_Methods.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P10_TopInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course04_Methods.Exercise.P10_TopInteger" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course04_Methods.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P10_TopInteger" />
+        <item itemvalue="Application.P09_PalindromeIntegers" />
         <item itemvalue="Application.P07_NxMMatrix" />
         <item itemvalue="Application.P06_MiddleCharacters" />
         <item itemvalue="Application.P05_AddAndSubtract" />
-        <item itemvalue="Application.P04_PasswordValidator" />
-        <item itemvalue="Application.P03_CharactersInRange" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +125,7 @@
       <workItem from="1684764010344" duration="144000" />
       <workItem from="1684827021244" duration="673000" />
       <workItem from="1695036670134" duration="14174000" />
-      <workItem from="1695105923864" duration="4954000" />
+      <workItem from="1695105923864" duration="6198000" />
     </task>
     <servers />
   </component>

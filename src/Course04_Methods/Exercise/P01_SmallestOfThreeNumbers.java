@@ -24,7 +24,7 @@ public class P01_SmallestOfThreeNumbers {
             System.out.println(n2);
         }
 
-        else if (n3 <= n1 && n3 <= n2) {
+        else  {
             System.out.println(n3);
         }
     }

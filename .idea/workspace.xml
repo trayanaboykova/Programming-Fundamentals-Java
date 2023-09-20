@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P03_MemoryGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P03_MemoryGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P02_TheLift2">
+  <component name="RunManager" selected="Application.P03_MemoryGame">
     <configuration name="P01_ComputerStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExamsExercises.MidExam_01.P01_ComputerStore" />
       <module name="ProgrammingFundamentalsJava" />
@@ -76,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P09_PokemonDontGo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P09_PokemonDontGo" />
+    <configuration name="P03_MemoryGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamsExercises.MidExam_01.P03_MemoryGame" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course05_Lists.Exercise.*" />
+          <option name="PATTERN" value="ExamsExercises.MidExam_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P03_MemoryGame" />
         <item itemvalue="Application.P02_TheLift2" />
         <item itemvalue="Application.P02_TheLift" />
         <item itemvalue="Application.P01_ComputerStore" />
         <item itemvalue="Application.P10_SoftUniCoursePlanning" />
-        <item itemvalue="Application.P09_PokemonDontGo" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +127,7 @@
       <workItem from="1684827021244" duration="673000" />
       <workItem from="1695036670134" duration="14174000" />
       <workItem from="1695105923864" duration="13482000" />
-      <workItem from="1695203982073" duration="14401000" />
+      <workItem from="1695203982073" duration="14531000" />
     </task>
     <servers />
   </component>
@@ -150,6 +151,11 @@
           <url>file://$PROJECT_DIR$/src/Course03_Arrays/Exercise/P10_TreasureHunt.java</url>
           <line>6</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P03_MemoryGame.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>
@@ -177,6 +183,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P03_MemoryGame.java</url>
+          <line>55</line>
+          <properties class="ExamsExercises.MidExam_01.P03_MemoryGame" method="printList">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P03_MemoryGame.java</url>
+          <line>60</line>
+          <properties class="ExamsExercises.MidExam_01.P03_MemoryGame" method="isValidIndex">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="90" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

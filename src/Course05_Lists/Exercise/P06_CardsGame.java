@@ -33,8 +33,7 @@ public class P06_CardsGame {
         if (firstPlayerCards.size() == 0) {
             System.out.printf("Second player wins! Sum: %d", getCardsSum(secondPlayerCards));
         }
-
-        else if (secondPlayerCards.size() == 0) {
+        else {
             System.out.printf("First player wins! Sum: %d", getCardsSum(firstPlayerCards));
         }
     }

@@ -8,8 +8,10 @@ import java.util.stream.Collectors;
 public class P03_MemoryGame {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        
         List<String> elements = Arrays.stream(scanner.nextLine().split(" "))
-                .collect(Collectors.toList());
+                                .collect(Collectors.toList());
+
         String userInput = scanner.nextLine();
         int countHits = 0;
         int success = 0;

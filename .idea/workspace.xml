@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P06_CardsGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course05_Lists/Exercise/P06_CardsGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +37,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P03_HouseParty">
-    <configuration name="P01_Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P01_Train" />
-      <module name="ProgrammingFundamentalsJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course05_Lists.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P06_CardsGame">
     <configuration name="P02_ChangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P02_ChangeList" />
       <module name="ProgrammingFundamentalsJava" />
@@ -76,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06_ListOfProducts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Lab.P06_ListOfProducts" />
+    <configuration name="P04_ListOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P04_ListOperations" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course05_Lists.Lab.*" />
+          <option name="PATTERN" value="Course05_Lists.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +77,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_RemoveNegativesAndReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Lab.P07_RemoveNegativesAndReverse" />
+    <configuration name="P05_BombNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P05_BombNumbers" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course05_Lists.Lab.*" />
+          <option name="PATTERN" value="Course05_Lists.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P06_CardsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P06_CardsGame" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course05_Lists.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P06_CardsGame" />
+        <item itemvalue="Application.P05_BombNumbers" />
+        <item itemvalue="Application.P04_ListOperations" />
         <item itemvalue="Application.P03_HouseParty" />
         <item itemvalue="Application.P02_ChangeList" />
-        <item itemvalue="Application.P01_Train" />
-        <item itemvalue="Application.P07_RemoveNegativesAndReverse" />
-        <item itemvalue="Application.P06_ListOfProducts" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +127,7 @@
       <workItem from="1684827021244" duration="673000" />
       <workItem from="1695036670134" duration="14174000" />
       <workItem from="1695105923864" duration="13482000" />
+      <workItem from="1695203982073" duration="2892000" />
     </task>
     <servers />
   </component>
@@ -149,11 +151,6 @@
           <url>file://$PROJECT_DIR$/src/Course03_Arrays/Exercise/P10_TreasureHunt.java</url>
           <line>6</line>
           <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course05_Lists/Exercise/P03_HouseParty.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>

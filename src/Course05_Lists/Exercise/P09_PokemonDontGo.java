@@ -15,6 +15,7 @@ public class P09_PokemonDontGo {
 
         while (numbers.size() > 0) {
             int index = Integer.parseInt(scanner.nextLine());
+
             if (index >= 0 && index <= numbers.size() - 1) {
                 int removedElement = numbers.get(index);
                 sumRemoved += removedElement;
@@ -36,7 +37,6 @@ public class P09_PokemonDontGo {
                 int firstElement = numbers.get(0);
                 numbers.add(firstElement);
                 modifyList(numbers, lastElement);
-
             }
 
         }

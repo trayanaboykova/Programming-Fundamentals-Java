@@ -9,7 +9,8 @@ public class P08_AnonymousThreat {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<String> texts = Arrays.stream(scanner.nextLine().split(" "))
-                .collect(Collectors.toList());
+                            .collect(Collectors.toList());
+
         String command = scanner.nextLine();
 
         while (!command.equals("3:1")) {
@@ -48,8 +49,11 @@ public class P08_AnonymousThreat {
                 }
                 texts.add(index, elementForDivide.substring(beginIndexOfText));
             }
+
             command = scanner.nextLine();
         }
+
         System.out.println(String.join(" ", texts));
     }
+
 }

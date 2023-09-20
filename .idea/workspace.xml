@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="" />
+    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,13 +36,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P10_SoftUniCoursePlanning">
-    <configuration name="P06_CardsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P06_CardsGame" />
+  <component name="RunManager" selected="Application.P02_TheLift2">
+    <configuration name="P01_ComputerStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamsExercises.MidExam_01.P01_ComputerStore" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course05_Lists.Exercise.*" />
+          <option name="PATTERN" value="ExamsExercises.MidExam_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -48,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_AppendArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P07_AppendArrays" />
+    <configuration name="P02_TheLift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamsExercises.MidExam_01.P02_TheLift" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course05_Lists.Exercise.*" />
+          <option name="PATTERN" value="ExamsExercises.MidExam_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08_AnonymousThreat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course05_Lists.Exercise.P08_AnonymousThreat" />
+    <configuration name="P02_TheLift2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamsExercises.MidExam_01.P02_TheLift2" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course05_Lists.Exercise.*" />
+          <option name="PATTERN" value="ExamsExercises.MidExam_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P02_TheLift2" />
+        <item itemvalue="Application.P02_TheLift" />
+        <item itemvalue="Application.P01_ComputerStore" />
         <item itemvalue="Application.P10_SoftUniCoursePlanning" />
         <item itemvalue="Application.P09_PokemonDontGo" />
-        <item itemvalue="Application.P08_AnonymousThreat" />
-        <item itemvalue="Application.P07_AppendArrays" />
-        <item itemvalue="Application.P06_CardsGame" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +126,7 @@
       <workItem from="1684827021244" duration="673000" />
       <workItem from="1695036670134" duration="14174000" />
       <workItem from="1695105923864" duration="13482000" />
-      <workItem from="1695203982073" duration="10382000" />
+      <workItem from="1695203982073" duration="13611000" />
     </task>
     <servers />
   </component>

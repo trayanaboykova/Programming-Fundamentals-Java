@@ -9,11 +9,15 @@ public class P03_Numbers {
         List<Integer> numbers = Arrays.stream(scanner.nextLine().split(" "))
                 .map(Integer::parseInt)
                 .collect(Collectors.toList());
+
         int sum = 0;
+
         for (int i = 0; i < numbers.size(); i++) {
             sum += numbers.get(i);
         }
+
         double averageValue = sum * 1.0 / numbers.size();
+
         List<Integer> topFiveNumbers = new ArrayList<>();
 
         for (int i = 0; i < numbers.size(); i++) {
@@ -21,6 +25,7 @@ public class P03_Numbers {
                 topFiveNumbers.add(numbers.get(i));
             }
         }
+
         Collections.sort(topFiveNumbers);
         Collections.reverse(topFiveNumbers);
 

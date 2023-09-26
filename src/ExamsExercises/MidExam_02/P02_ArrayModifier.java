@@ -9,7 +9,9 @@ public class P02_ArrayModifier {
         int[] arrayValues = Arrays.stream(scanner.nextLine().split("\\s+")).
                 mapToInt(Integer::parseInt).
                 toArray();
+
         String commandLine = scanner.nextLine();
+        
         while (!commandLine.equals("end")) {
             String command = commandLine.split(" ")[0];
             switch (command) {

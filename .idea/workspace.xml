@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P02_ArrayModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P02_ArrayModifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P02_ArrayModifier2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P02_ArrayModifier2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P03_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P03_Numbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +37,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P01_SoftUniReception">
-    <configuration name="P01_ComputerStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamsExercises.MidExam_01.P01_ComputerStore" />
-      <module name="ProgrammingFundamentalsJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamsExercises.MidExam_01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P03_Numbers">
     <configuration name="P01_SoftUniReception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExamsExercises.MidExam_02.P01_SoftUniReception" />
       <module name="ProgrammingFundamentalsJava" />
@@ -65,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P02_TheLift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamsExercises.MidExam_01.P02_TheLift" />
+    <configuration name="P02_ArrayModifier2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamsExercises.MidExam_02.P02_ArrayModifier2" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamsExercises.MidExam_01.*" />
+          <option name="PATTERN" value="ExamsExercises.MidExam_02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,13 +90,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P03_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamsExercises.MidExam_02.P03_Numbers" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamsExercises.MidExam_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P03_Numbers" />
+        <item itemvalue="Application.P02_ArrayModifier2" />
         <item itemvalue="Application.P01_SoftUniReception" />
         <item itemvalue="Application.P03_MemoryGame" />
         <item itemvalue="Application.P02_TheLift2" />
-        <item itemvalue="Application.P02_TheLift" />
-        <item itemvalue="Application.P01_ComputerStore" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +128,7 @@
       <workItem from="1695036670134" duration="14174000" />
       <workItem from="1695105923864" duration="13482000" />
       <workItem from="1695203982073" duration="14840000" />
-      <workItem from="1695722770227" duration="1421000" />
+      <workItem from="1695722770227" duration="2523000" />
     </task>
     <servers />
   </component>

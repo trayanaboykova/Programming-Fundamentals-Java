@@ -11,7 +11,7 @@ public class P02_ArrayModifier {
                 toArray();
 
         String commandLine = scanner.nextLine();
-        
+
         while (!commandLine.equals("end")) {
             String command = commandLine.split(" ")[0];
             switch (command) {

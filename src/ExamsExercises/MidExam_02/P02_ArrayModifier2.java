@@ -7,8 +7,10 @@ public class P02_ArrayModifier2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] numbers = Arrays.stream(scanner.nextLine().split(" "))
-                .mapToInt(Integer::parseInt).toArray();
+                        .mapToInt(Integer::parseInt).toArray();
+
         String commandLine = scanner.nextLine();
+
         //commands:
         //•	"swap {index1} {index2}" takes two elements and swap their places.
         //•	"multiply {index1} {index2}" takes element at the 1st index and multiply it with the element at 2nd index. Save the product at the 1st index.

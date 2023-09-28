@@ -9,9 +9,11 @@ public class P02_TreasureHunt3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<String> treasureChests = Arrays.stream(scanner.nextLine()
-                        .split("\\|"))
-                .collect(Collectors.toList());
+                                    .split("\\|"))
+                                    .collect(Collectors.toList());
+
         String commandLine = scanner.nextLine();
+
         while (!commandLine.equals("Yohoho!")) {
             String command = commandLine.split(" ")[0];
             switch (command) {
@@ -24,7 +26,6 @@ public class P02_TreasureHunt3 {
                         }
 
                     }
-
                     break;
                 case "Drop":
                     int index = Integer.parseInt(commandLine.split(" ")[1]);
@@ -56,6 +57,7 @@ public class P02_TreasureHunt3 {
 
             commandLine = scanner.nextLine();
         }
+        
         if (treasureChests.isEmpty()) {
             System.out.println("Failed treasure hunt.");
         } else {

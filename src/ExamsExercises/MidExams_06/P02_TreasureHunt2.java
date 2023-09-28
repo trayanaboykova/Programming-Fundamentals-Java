@@ -10,10 +10,9 @@ public class P02_TreasureHunt2 {
         Scanner scanner = new Scanner(System.in);
 
         String[] lootsChestArr = scanner.nextLine().split("\\|");
-
         List<String> chestList = new ArrayList<>(Arrays.asList(lootsChestArr));
-
         List<String> commandList = Arrays.asList(scanner.nextLine().split(" "));
+
         while (!"Yohoho!".equals(commandList.get(0))) {
             String command = commandList.get(0);
 
@@ -53,6 +52,7 @@ public class P02_TreasureHunt2 {
                     System.out.println(String.join(", ", stealItems));
                     break;
             }
+
             commandList = Arrays.asList(scanner.nextLine().split(" "));
         }
 

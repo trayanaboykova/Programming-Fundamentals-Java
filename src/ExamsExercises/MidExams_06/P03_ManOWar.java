@@ -13,7 +13,7 @@ public class P03_ManOWar {
         int[] warShip = Arrays.stream(scanner.nextLine().split(">"))
                 .mapToInt(Integer::parseInt)
                 .toArray();
-        
+
         int maxHealth = Integer.parseInt(scanner.nextLine());
         String commandLine = scanner.nextLine();
         boolean end = false;

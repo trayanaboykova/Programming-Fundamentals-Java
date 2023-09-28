@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +128,7 @@
       <workItem from="1695105923864" duration="13482000" />
       <workItem from="1695203982073" duration="14840000" />
       <workItem from="1695722770227" duration="6611000" />
-      <workItem from="1695895657124" duration="6766000" />
+      <workItem from="1695895657124" duration="7367000" />
     </task>
     <servers />
   </component>
@@ -157,11 +157,6 @@
           <url>file://$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P03_Inventory.java</url>
           <line>9</line>
           <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>

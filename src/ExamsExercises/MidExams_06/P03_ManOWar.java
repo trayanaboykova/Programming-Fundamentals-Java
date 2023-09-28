@@ -9,12 +9,15 @@ public class P03_ManOWar {
         int[] pirateShip = Arrays.stream(scanner.nextLine().split(">"))
                 .mapToInt(Integer::parseInt)
                 .toArray();
+
         int[] warShip = Arrays.stream(scanner.nextLine().split(">"))
                 .mapToInt(Integer::parseInt)
                 .toArray();
+        
         int maxHealth = Integer.parseInt(scanner.nextLine());
         String commandLine = scanner.nextLine();
         boolean end = false;
+
         while (!commandLine.equals("Retire") && !(end)) {
             String command = commandLine.split(" ")[0];
             if (command.equals("Status")) {
@@ -69,6 +72,7 @@ public class P03_ManOWar {
                 commandLine = scanner.nextLine();
             }
         }
+
         if (!end){
             System.out.printf("Pirate ship status: %d%n", getStatus(pirateShip));
             System.out.printf("Warship status: %d%n", getStatus(warShip));

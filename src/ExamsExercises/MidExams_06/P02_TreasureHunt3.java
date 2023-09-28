@@ -57,7 +57,7 @@ public class P02_TreasureHunt3 {
 
             commandLine = scanner.nextLine();
         }
-        
+
         if (treasureChests.isEmpty()) {
             System.out.println("Failed treasure hunt.");
         } else {

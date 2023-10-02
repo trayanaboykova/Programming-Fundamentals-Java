@@ -36,7 +36,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P02_AMinerTask">
+  <component name="RunManager" selected="Application.P03_Orders">
     <configuration name="P01_CountCharsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P01_CountCharsInAString" />
       <module name="ProgrammingFundamentalsJava" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P02_WordSynonyms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Lab.P02_WordSynonyms" />
+    <configuration name="P03_OddOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Lab.P03_OddOccurrences" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P03_OddOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Lab.P03_OddOccurrences" />
+    <configuration name="P03_Orders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P03_Orders" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course07_AssociativeArrays.Lab.*" />
+          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P03_Orders" />
         <item itemvalue="Application.P02_AMinerTask" />
         <item itemvalue="Application.P01_CountCharsInAString" />
         <item itemvalue="Application.P04_WordFilter" />
         <item itemvalue="Application.P03_OddOccurrences" />
-        <item itemvalue="Application.P02_WordSynonyms" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <workItem from="1695722770227" duration="6611000" />
       <workItem from="1695895657124" duration="9877000" />
       <workItem from="1696078885538" duration="1243000" />
-      <workItem from="1696230568778" duration="6067000" />
+      <workItem from="1696230568778" duration="6926000" />
     </task>
     <servers />
   </component>
@@ -172,9 +172,9 @@
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course07_AssociativeArrays/Exercise/P02_AMinerTask.java</url>
+          <url>file://$PROJECT_DIR$/src/Course07_AssociativeArrays/Exercise/P03_Orders.java</url>
           <line>8</line>
-          <option name="timeStamp" value="76" />
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>

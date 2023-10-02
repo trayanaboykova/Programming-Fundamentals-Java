@@ -9,7 +9,7 @@ public class P08_CompanyUsers {
         String input = scanner.nextLine();
 
         Map<String, List<String>> idByCompanies = new LinkedHashMap<>();
-        List<String> employers;
+        List<String> employees;
 
         while (!input.equals("End")) {
             String[] tokens = input.split(" -> ");
@@ -20,9 +20,9 @@ public class P08_CompanyUsers {
             String employeeId = tokens[1];
 
             idByCompanies.putIfAbsent(companyName, new ArrayList<>());
-            employers = idByCompanies.get(companyName);
-            if (!employers.isEmpty()) {
-                if (!employers.contains(employeeId)) {
+            employees = idByCompanies.get(companyName);
+            if (!employees.isEmpty()) {
+                if (!employees.contains(employeeId)) {
                     idByCompanies.get(companyName).add(employeeId);
                 }
             } else {
@@ -33,9 +33,9 @@ public class P08_CompanyUsers {
         }
         for (Map.Entry<String, List<String>> entry : idByCompanies.entrySet()) {
             System.out.println(entry.getKey());
-            employers = entry.getValue();
+            employees = entry.getValue();
 
-            for (String s : employers) {
+            for (String s : employees) {
                 System.out.printf("-- %s%n", s);
             }
 

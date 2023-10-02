@@ -41,8 +41,7 @@ public class P04_SoftUniParking {
 
         }
 
-        parkingUsers.forEach((userName, licensePlate)
-                -> System.out.println(userName + " => " + licensePlate));
+        parkingUsers.forEach((userName, licensePlate) -> System.out.println(userName + " => " + licensePlate));
     }
 }
 

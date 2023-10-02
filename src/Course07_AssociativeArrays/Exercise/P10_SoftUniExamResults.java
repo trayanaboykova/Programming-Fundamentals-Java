@@ -9,14 +9,14 @@ public class P10_SoftUniExamResults {
         Map<String, Map<String, List<Integer>>> submissionInfoMap = new LinkedHashMap<>();
         Map<String, List<Integer>> countSubmissionsMap = new LinkedHashMap<>();
 
-        String line;
+        String input = scanner.nextLine();
 
-        while (!(line = scanner.nextLine()).equals("exam finished")) {
+        while (!input.equals("exam finished")) {
 
             String[] command;
-            if (!line.contains("banned")) {
+            if (!input.contains("banned")) {
 
-                command = line.split("-");
+                command = input.split("-");
                 String username = command[0];
                 String language = command[1];
                 int points = Integer.parseInt(command[2]);
@@ -28,12 +28,14 @@ public class P10_SoftUniExamResults {
                 countSubmissionsMap.get(language).add(points);
             } else {
 
-                command = line.split("-");
+                command = input.split("-");
                 String oldUsername = command[0];
                 String newUsername = command[1];
                 submissionInfoMap.put(oldUsername, submissionInfoMap.put(newUsername, submissionInfoMap.get(oldUsername)));
                 submissionInfoMap.remove(oldUsername);
             }
+
+            input = scanner.nextLine();
         }
 
         printResults(submissionInfoMap);

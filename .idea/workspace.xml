@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Course07_AssociativeArrays/Exercise/P04_SoftUniParking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course07_AssociativeArrays/Exercise/P04_SoftUniParking.java" afterDir="false" />
-    </list>
+    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +34,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P04_SoftUniParking">
+  <component name="RunManager" selected="Application.P05_Courses">
     <configuration name="P01_CountCharsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P01_CountCharsInAString" />
       <module name="ProgrammingFundamentalsJava" />
@@ -90,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P04_WordFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Lab.P04_WordFilter" />
+    <configuration name="P05_Courses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P05_Courses" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course07_AssociativeArrays.Lab.*" />
+          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P05_Courses" />
         <item itemvalue="Application.P04_SoftUniParking" />
         <item itemvalue="Application.P03_Orders" />
         <item itemvalue="Application.P02_AMinerTask" />
         <item itemvalue="Application.P01_CountCharsInAString" />
-        <item itemvalue="Application.P04_WordFilter" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +128,7 @@
       <workItem from="1695722770227" duration="6611000" />
       <workItem from="1695895657124" duration="9877000" />
       <workItem from="1696078885538" duration="1243000" />
-      <workItem from="1696230568778" duration="8154000" />
+      <workItem from="1696230568778" duration="8942000" />
     </task>
     <servers />
   </component>
@@ -171,11 +168,6 @@
           <url>file://$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P03_Inventory.java</url>
           <line>9</line>
           <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course07_AssociativeArrays/Exercise/P04_SoftUniParking.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>

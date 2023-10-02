@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="" />
+    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,46 +36,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P05_Courses">
-    <configuration name="P01_CountCharsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P01_CountCharsInAString" />
-      <module name="ProgrammingFundamentalsJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P02_AMinerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P02_AMinerTask" />
-      <module name="ProgrammingFundamentalsJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P03_Orders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P03_Orders" />
-      <module name="ProgrammingFundamentalsJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.P08_CompanyUsers">
     <configuration name="P04_SoftUniParking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P04_SoftUniParking" />
       <module name="ProgrammingFundamentalsJava" />
@@ -100,13 +63,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="P06_StudentAcademy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P06_StudentAcademy" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P07_LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P07_LegendaryFarming" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P08_CompanyUsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P08_CompanyUsers" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P08_CompanyUsers" />
+        <item itemvalue="Application.P07_LegendaryFarming" />
+        <item itemvalue="Application.P06_StudentAcademy" />
         <item itemvalue="Application.P05_Courses" />
         <item itemvalue="Application.P04_SoftUniParking" />
-        <item itemvalue="Application.P03_Orders" />
-        <item itemvalue="Application.P02_AMinerTask" />
-        <item itemvalue="Application.P01_CountCharsInAString" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +130,7 @@
       <workItem from="1695722770227" duration="6611000" />
       <workItem from="1695895657124" duration="9877000" />
       <workItem from="1696078885538" duration="1243000" />
-      <workItem from="1696230568778" duration="8942000" />
+      <workItem from="1696230568778" duration="13056000" />
     </task>
     <servers />
   </component>
@@ -168,6 +170,16 @@
           <url>file://$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P03_Inventory.java</url>
           <line>9</line>
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course07_AssociativeArrays/Exercise/P05_Courses.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course07_AssociativeArrays/Exercise/P08_CompanyUsers.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>

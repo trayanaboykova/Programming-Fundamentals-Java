@@ -25,8 +25,7 @@ public class P05_Courses {
             input = scanner.nextLine();
         }
         //courseName -> List<String>
-        courses.entrySet()
-                .forEach(entry -> {
+        courses.entrySet().forEach(entry -> {
                     //key: име на курса
                     //value: списък с хората
                     //име на курса -> бр. хората

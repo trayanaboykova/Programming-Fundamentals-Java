@@ -23,7 +23,7 @@ public class P09_ForceBook {
                     map.put(group, new ArrayList<>());
                 }
                 //2. имаме такава група -> добавяме към групата user, ако го няма в НИКОЯ ГРУПА
-                boolean isExistUser = false; //user го има в даден група
+                boolean isExistUser = false; //user го има в дадена група
                 for (List<String> listUsers : map.values()) {
                     if (listUsers.contains(user)) {
                         //user го има в някоя група
@@ -49,7 +49,7 @@ public class P09_ForceBook {
                 if (map.containsKey(group)) {
                     map.get(group).add(user);
                 } else {
-                    //нямама такава група, в която иска да отиде -> създаваме
+                    //нямаме такава група, в която иска да отиде -> създаваме
                     map.put(group, new ArrayList<>());
                     map.get(group).add(user);
                 }

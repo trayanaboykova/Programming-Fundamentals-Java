@@ -36,13 +36,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P04_WordFilter">
-    <configuration name="P01_CountRealNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Lab.P01_CountRealNumbers" />
+  <component name="RunManager" selected="Application.P02_AMinerTask">
+    <configuration name="P01_CountCharsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P01_CountCharsInAString" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course07_AssociativeArrays.Lab.*" />
+          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P02_AMinerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P02_AMinerTask" />
+      <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,19 +69,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Course07_AssociativeArrays.Lab.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="P03_ManOWar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamsExercises.MidExams_06.P03_ManOWar" />
-      <module name="ProgrammingFundamentalsJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamsExercises.MidExams_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P02_AMinerTask" />
+        <item itemvalue="Application.P01_CountCharsInAString" />
         <item itemvalue="Application.P04_WordFilter" />
         <item itemvalue="Application.P03_OddOccurrences" />
         <item itemvalue="Application.P02_WordSynonyms" />
-        <item itemvalue="Application.P01_CountRealNumbers" />
-        <item itemvalue="Application.P03_ManOWar" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <workItem from="1695722770227" duration="6611000" />
       <workItem from="1695895657124" duration="9877000" />
       <workItem from="1696078885538" duration="1243000" />
-      <workItem from="1696230568778" duration="5410000" />
+      <workItem from="1696230568778" duration="6067000" />
     </task>
     <servers />
   </component>
@@ -170,6 +170,11 @@
           <url>file://$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P03_Inventory.java</url>
           <line>9</line>
           <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Course07_AssociativeArrays/Exercise/P02_AMinerTask.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>

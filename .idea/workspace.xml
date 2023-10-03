@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P02_CharacterMultiplier1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Course08_TextProcessing/Exercise/P02_CharacterMultiplier1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +44,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P05_DigitsLettersAndOther">
-    <configuration name="P01_ReverseStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course08_TextProcessing.Lab.P01_ReverseStrings" />
+  <component name="RunManager" selected="Application.P01_ValidUsernames">
+    <configuration name="P01_ValidUsernames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course08_TextProcessing.Exercise.P01_ValidUsernames" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course08_TextProcessing.Lab.*" />
+          <option name="PATTERN" value="Course08_TextProcessing.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P01_ValidUsernames" />
         <item itemvalue="Application.P05_DigitsLettersAndOther" />
         <item itemvalue="Application.P04_TextFilter" />
         <item itemvalue="Application.P03_Substring" />
         <item itemvalue="Application.P02_RepeatStrings" />
-        <item itemvalue="Application.P01_ReverseStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +139,7 @@
       <workItem from="1695895657124" duration="9877000" />
       <workItem from="1696078885538" duration="1243000" />
       <workItem from="1696230568778" duration="19773000" />
-      <workItem from="1696316762339" duration="5261000" />
+      <workItem from="1696316762339" duration="5943000" />
     </task>
     <servers />
   </component>

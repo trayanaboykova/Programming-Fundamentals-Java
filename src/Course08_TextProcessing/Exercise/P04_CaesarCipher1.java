@@ -2,7 +2,7 @@ package Course08_TextProcessing.Exercise;
 
 import java.util.Scanner;
 
-public class P05_CaesarCipher1 {
+public class P04_CaesarCipher1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String text = scanner.nextLine(); //първоначалния текст: "Programming is cool!"

@@ -43,13 +43,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.demo">
-    <configuration name="P07_LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P07_LegendaryFarming" />
+  <component name="RunManager" selected="Application.P05_DigitsLettersAndOther">
+    <configuration name="P01_ReverseStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course08_TextProcessing.Lab.P01_ReverseStrings" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
+          <option name="PATTERN" value="Course08_TextProcessing.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08_CompanyUsers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P08_CompanyUsers" />
+    <configuration name="P02_RepeatStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course08_TextProcessing.Lab.P02_RepeatStrings" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
+          <option name="PATTERN" value="Course08_TextProcessing.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P09_ForceBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P09_ForceBook" />
+    <configuration name="P03_Substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course08_TextProcessing.Lab.P03_Substring" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
+          <option name="PATTERN" value="Course08_TextProcessing.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P10_SoftUniExamResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course07_AssociativeArrays.Exercise.P10_SoftUniExamResults" />
+    <configuration name="P04_TextFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course08_TextProcessing.Lab.P04_TextFilter" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course07_AssociativeArrays.Exercise.*" />
+          <option name="PATTERN" value="Course08_TextProcessing.Lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,20 +96,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demo" />
+    <configuration name="P05_DigitsLettersAndOther" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course08_TextProcessing.Lab.P05_DigitsLettersAndOther" />
       <module name="ProgrammingFundamentalsJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Course08_TextProcessing.Lab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demo" />
-        <item itemvalue="Application.P10_SoftUniExamResults" />
-        <item itemvalue="Application.P09_ForceBook" />
-        <item itemvalue="Application.P08_CompanyUsers" />
-        <item itemvalue="Application.P07_LegendaryFarming" />
+        <item itemvalue="Application.P05_DigitsLettersAndOther" />
+        <item itemvalue="Application.P04_TextFilter" />
+        <item itemvalue="Application.P03_Substring" />
+        <item itemvalue="Application.P02_RepeatStrings" />
+        <item itemvalue="Application.P01_ReverseStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +138,7 @@
       <workItem from="1695895657124" duration="9877000" />
       <workItem from="1696078885538" duration="1243000" />
       <workItem from="1696230568778" duration="19773000" />
-      <workItem from="1696316762339" duration="1310000" />
+      <workItem from="1696316762339" duration="5261000" />
     </task>
     <servers />
   </component>

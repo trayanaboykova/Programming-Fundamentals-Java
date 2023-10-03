@@ -27,8 +27,8 @@ public class P08_LettersChangeNumbers {
         char firstLetter = code.charAt(0); //'A'
         char secondLetter = code.charAt(code.length() - 1); //'b'
         double number = Double.parseDouble(code.replace(firstLetter, ' ') //" 12b"
-                .replace(secondLetter, ' ') //" 12 "
-                .trim()); //"12" -> 12.0
+                        .replace(secondLetter, ' ') //" 12 "
+                        .trim()); //"12" -> 12.0
 
         //1. проверка за firstLetter -> главна или малка
         if (Character.isUpperCase(firstLetter)) {

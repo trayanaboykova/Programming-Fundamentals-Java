@@ -12,24 +12,18 @@ public class P02_CharacterMultiplier1 {
         int minLength = Math.min(firstArr.length, secondArr.length);
         int maxLength = Math.max(firstArr.length, secondArr.length);
 
-        for (int i = 0; i < minLength; i++)
-        {
-
+        for (int i = 0; i < minLength; i++) {
             sum += firstArr[i] * secondArr[i];
         }
 
 
-        if (maxLength == firstArr.length)
-        {
-            for (int i = minLength; i < maxLength; i++)
-            {
+        if (maxLength == firstArr.length) {
+            for (int i = minLength; i < maxLength; i++) {
                 sum += firstArr[i];
             }
         }
-        else
-        {
-            for (int i = minLength; i < maxLength; i++)
-            {
+        else {
+            for (int i = minLength; i < maxLength; i++) {
                 sum += secondArr[i];
             }
         }

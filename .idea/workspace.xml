@@ -43,7 +43,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P02_Race">
+  <component name="RunManager" selected="Application.P04_StarEnigma">
     <configuration name="P01_MatchFullName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Course09_RegularExpressions.Lab.P01_MatchFullName" />
       <module name="ProgrammingFundamentalsJava" />
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P06_ReplaceRepeatingChars2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course08_TextProcessing.Exercise.P06_ReplaceRepeatingChars2" />
+    <configuration name="P04_StarEnigma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course09_RegularExpressions.Exercise.P04_StarEnigma" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course08_TextProcessing.Exercise.*" />
+          <option name="PATTERN" value="Course09_RegularExpressions.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P04_StarEnigma" />
         <item itemvalue="Application.P02_Race" />
         <item itemvalue="Application.P01_MatchFullName" />
         <item itemvalue="Application.P08_LettersChangeNumbers" />
         <item itemvalue="Application.P07_StringExplosion" />
-        <item itemvalue="Application.P06_ReplaceRepeatingChars2" />
       </list>
     </recent_temporary>
   </component>
@@ -141,6 +141,8 @@
       <workItem from="1696316762339" duration="10219000" />
       <workItem from="1696403025010" duration="1707000" />
       <workItem from="1696666956674" duration="4717000" />
+      <workItem from="1696932649169" duration="1335000" />
+      <workItem from="1697011178976" duration="2948000" />
     </task>
     <servers />
   </component>

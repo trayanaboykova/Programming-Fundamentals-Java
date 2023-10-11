@@ -43,13 +43,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.P04_StarEnigma">
-    <configuration name="P01_MatchFullName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course09_RegularExpressions.Lab.P01_MatchFullName" />
+  <component name="RunManager" selected="Application.P01_TheImitationGame">
+    <configuration name="P01_TheImitationGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamsExercises.RegularExams_01.P01_TheImitationGame" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course09_RegularExpressions.Lab.*" />
+          <option name="PATTERN" value="ExamsExercises.RegularExams_01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P07_StringExplosion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course08_TextProcessing.Exercise.P07_StringExplosion" />
+    <configuration name="P05_NetherRealms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course09_RegularExpressions.Exercise.P05_NetherRealms" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course08_TextProcessing.Exercise.*" />
+          <option name="PATTERN" value="Course09_RegularExpressions.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P08_LettersChangeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Course08_TextProcessing.Exercise.P08_LettersChangeNumbers" />
+    <configuration name="P06_ExtractEmails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Course09_RegularExpressions.Exercise.P06_ExtractEmails" />
       <module name="ProgrammingFundamentalsJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Course08_TextProcessing.Exercise.*" />
+          <option name="PATTERN" value="Course09_RegularExpressions.Exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P01_TheImitationGame" />
+        <item itemvalue="Application.P06_ExtractEmails" />
+        <item itemvalue="Application.P05_NetherRealms" />
         <item itemvalue="Application.P04_StarEnigma" />
         <item itemvalue="Application.P02_Race" />
-        <item itemvalue="Application.P01_MatchFullName" />
-        <item itemvalue="Application.P08_LettersChangeNumbers" />
-        <item itemvalue="Application.P07_StringExplosion" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <workItem from="1696403025010" duration="1707000" />
       <workItem from="1696666956674" duration="4717000" />
       <workItem from="1696932649169" duration="1335000" />
-      <workItem from="1697011178976" duration="2948000" />
+      <workItem from="1697011178976" duration="7816000" />
     </task>
     <servers />
   </component>
@@ -198,6 +198,11 @@
           <line>6</line>
           <option name="timeStamp" value="86" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P01_TheImitationGame.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>
           <line>73</line>
@@ -224,6 +229,42 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P01_TheImitationGame.java</url>
+          <line>18</line>
+          <properties class="ExamsExercises.RegularExams_01.P01_TheImitationGame" method="distribution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P01_TheImitationGame.java</url>
+          <line>39</line>
+          <properties class="ExamsExercises.RegularExams_01.P01_TheImitationGame" method="moveElements">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P01_TheImitationGame.java</url>
+          <line>47</line>
+          <properties class="ExamsExercises.RegularExams_01.P01_TheImitationGame" method="insertValueBeforeIndex">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P01_TheImitationGame.java</url>
+          <line>54</line>
+          <properties class="ExamsExercises.RegularExams_01.P01_TheImitationGame" method="changeAllOccurrencesOfSubstring">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

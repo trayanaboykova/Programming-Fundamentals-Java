@@ -68,7 +68,7 @@ public class P03_ThePianist {
                     //имаме такава пиеса
                     //пиеса -> списък с информация {composer, tone}
                     List<String> currentInfo = piecesMap.get(pieceName);
-                    currentInfo.remove(1); //{composer}
+                    currentInfo.remove(1); //{tone}
                     currentInfo.add(newTone); //{composer, newTone}
                     piecesMap.put(pieceName, currentInfo);
                     System.out.printf("Changed the key of %s to %s!%n", pieceName, newTone);

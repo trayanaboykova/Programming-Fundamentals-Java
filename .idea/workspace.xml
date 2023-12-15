@@ -4,7 +4,67 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="" />
+    <list default="true" id="e0deb258-6af4-4aa6-ae49-6abb91f92fc2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P01_ComputerStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift_Array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P02_TheLift_List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P03_MemoryGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_01/P03_MemoryGame2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P01_SoftUniReception.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P02_ArrayModifier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P02_ArrayModifier2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExam_02/P03_Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P01_CounterStrike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P01_CounterStrike2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P02_ShootForTheWin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P02_ShootForTheWin2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_03/P03_MovingTarget.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/P01_GuineaPig1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/P01_GuineaPig2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/P02_ShoppingList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_04/P03_HeartDelivery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P01_BonusScoringSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P02_MuOnline1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P02_MuOnline2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_05/P03_Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P01_BlackFlag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P01_BlackFlag2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P02_TreasureHunt3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/MidExams_06/P03_ManOWar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E01_RegularMidExam/P01_ExperienceGaining.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E01_RegularMidExam/P02_CoffeeLover.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E01_RegularMidExam/P03_TheAngryCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E02_RegularExam/P01_PasswordValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E02_RegularExam/P02_EncryptingPassword.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E02_RegularExam/P03_DegustationParty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P01_GiftBoxCoverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P01_GiftBoxCoverage2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P02_GeneratingNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E03_RetakeMidExam/P03_SpiceShelf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E04_RetakeRegularExam/P01_WordDeveloping.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E04_RetakeRegularExam/P02_Registration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/OtherExams/E04_RetakeRegularExam/P03_MonthlyReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P01_TheImitationGame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P02_AdAstra.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_01/P03_ThePianist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_02/P01_WorldTour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_02/P02_DestinationMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_02/P03_PlantDiscovery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_03/P01_SecretChat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_03/P02_MirrorWords.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_03/P03_NeedForSpeedIII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_04/P01_PasswordReset.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_04/P02_FancyBarcodes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_04/P03_HeroesOfCodeAndLogicVII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_05/P01_ActivationKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_05/P02_EmojiDetector.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamsExercises/RegularExams_05/P03_Pirates.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,6 +205,7 @@
       <workItem from="1697629409012" duration="12000" />
       <workItem from="1697629450085" duration="7000" />
       <workItem from="1698675972386" duration="3000" />
+      <workItem from="1702653738531" duration="57000" />
     </task>
     <servers />
   </component>

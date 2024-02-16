@@ -46,22 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/terra/Desktop/SoftUni/1. Java/1. Programming Basics with Java/ProgrammingBasicsJava&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/terra/Desktop/SoftUni/1. Java/2. Programming Fundamentals with Java Module/ProgrammingFundamentalsJava",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.P03_Pirates">
     <configuration name="P03_HeroesOfCodeAndLogicVII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExamsExercises.RegularExams_04.P03_HeroesOfCodeAndLogicVII" />
@@ -173,6 +173,7 @@
       <workItem from="1707920373562" duration="227000" />
       <workItem from="1708021236227" duration="356000" />
       <workItem from="1708021739101" duration="301000" />
+      <workItem from="1708084309147" duration="160000" />
     </task>
     <servers />
   </component>
@@ -194,17 +195,17 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course03_Arrays/Exercise/P05_TopIntegers.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson03_Arrays/Exercise/P05_TopIntegers.java</url>
           <line>7</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course03_Arrays/Exercise/P06_EqualSums.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson03_Arrays/Exercise/P06_EqualSums.java</url>
           <line>7</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course03_Arrays/Exercise/P10_TreasureHunt.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson03_Arrays/Exercise/P10_TreasureHunt.java</url>
           <line>6</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
@@ -214,17 +215,17 @@
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course07_AssociativeArrays/Exercise/P05_Courses.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson07_AssociativeArrays/Exercise/P05_Courses.java</url>
           <line>6</line>
           <option name="timeStamp" value="79" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course07_AssociativeArrays/Exercise/P08_CompanyUsers.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson07_AssociativeArrays/Exercise/P08_CompanyUsers.java</url>
           <line>6</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Course07_AssociativeArrays/Exercise/P09_ForceBook.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson07_AssociativeArrays/Exercise/P09_ForceBook.java</url>
           <line>6</line>
           <option name="timeStamp" value="86" />
         </line-breakpoint>
@@ -234,27 +235,27 @@
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson05_Lists/Lab/P05_ListManipulationAdvanced.java</url>
           <line>73</line>
-          <properties class="Course05_Lists.Lab.P05_ListManipulationAdvanced" method="getSum">
+          <properties class="Lesson05_Lists.Lab.P05_ListManipulationAdvanced" method="getSum">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="59" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson05_Lists/Lab/P05_ListManipulationAdvanced.java</url>
           <line>81</line>
-          <properties class="Course05_Lists.Lab.P05_ListManipulationAdvanced" method="printEvenElement">
+          <properties class="Lesson05_Lists.Lab.P05_ListManipulationAdvanced" method="printEvenElement">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Course05_Lists/Lab/P05_ListManipulationAdvanced.java</url>
+          <url>file://$PROJECT_DIR$/src/Lesson05_Lists/Lab/P05_ListManipulationAdvanced.java</url>
           <line>90</line>
-          <properties class="Course05_Lists.Lab.P05_ListManipulationAdvanced" method="printOddElement">
+          <properties class="Lesson05_Lists.Lab.P05_ListManipulationAdvanced" method="printOddElement">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

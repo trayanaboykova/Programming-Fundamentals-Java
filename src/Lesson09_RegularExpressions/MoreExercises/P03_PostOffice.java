@@ -1,4 +1,4 @@
-package Lesson_RegularExpressions.MoreExercises;
+package Lesson09_RegularExpressions.MoreExercises;
 
 import java.util.Arrays;
 import java.util.List;

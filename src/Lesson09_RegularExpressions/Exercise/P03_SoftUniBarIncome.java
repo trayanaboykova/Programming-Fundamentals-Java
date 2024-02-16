@@ -1,4 +1,4 @@
-package Lesson_RegularExpressions.Exercise;
+package Lesson09_RegularExpressions.Exercise;
 
 import java.util.Scanner;
 import java.util.regex.Matcher;

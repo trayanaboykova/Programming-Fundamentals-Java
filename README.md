@@ -56,7 +56,7 @@ In this module, I developed my problem-solving skills. I learned various techniq
 
 **[Regular Expressions](https://github.com/trayanaboykova/Programming-Fundamentals-Java/tree/master/src/Lesson09_RegularExpressions)**: <br> In this module, I learned about regular expressions in Java and how to use them effectively for searching, matching, and manipulating text patterns.
 
-By completing the "Programming Fundamentals with Java" course, I have acquired a strong foundation in Java programming, including knowledge of syntax, conditional statements, loops, data types, objects, and essential software development concepts.
+*By completing the [Programming Fundamentals with Java Course](https://softuni.bg/trainings/3951/programming-fundamentals-with-java-january-2023), I have acquired a strong foundation in Java programming, including knowledge of syntax, conditional statements, loops, data types, objects, and essential software development concepts.*
 
 
 # Certificate

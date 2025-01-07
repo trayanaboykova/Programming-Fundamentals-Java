@@ -4,7 +4,7 @@ Coding exercises and projects from my education at <a href="https://softuni.bg/"
 All of the solutions have passed 100/100 - you can check them here: <a href="https://judge.softuni.org/Contests/#!/List/ByCategory/145/Java-Fundamentals">Java Fundamentals</a>
 <br>
 
-<b> Course Curriculum: Programming Fundamentals with Java </b>
+<b> Course Curriculum: [Programming Fundamentals with Java Course](https://softuni.bg/trainings/3951/programming-fundamentals-with-java-january-2023) </b>
 
 **<ins>Language Comparison</ins>**: <br>
 During this module, I compared different programming languages, including Java, and understood their similarities and differences.
@@ -57,7 +57,6 @@ In this module, I developed my problem-solving skills. I learned various techniq
 **[Regular Expressions](https://github.com/trayanaboykova/Programming-Fundamentals-Java/tree/master/src/Lesson09_RegularExpressions)**: <br> In this module, I learned about regular expressions in Java and how to use them effectively for searching, matching, and manipulating text patterns.
 
 *By completing the [Programming Fundamentals with Java Course](https://softuni.bg/trainings/3951/programming-fundamentals-with-java-january-2023), I have acquired a strong foundation in Java programming, including knowledge of syntax, conditional statements, loops, data types, objects, and essential software development concepts.*
-
 
 # Certificate
 <a href="https://softuni.bg/certificates/details/167407/068cc5bc" rel="nofollow"><img src="https://user-images.githubusercontent.com/101351760/229783981-48f70750-813a-46f6-8b24-d64cbb6cbd57.png" alt="Programming Fundamentals with Java"></a>
